@@ -31,6 +31,3 @@ const elVolvera = [
     }
 
 ]
-
-
-export default elVolvera;
